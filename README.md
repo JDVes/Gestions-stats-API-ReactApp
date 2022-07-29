@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -73,3 +74,7 @@ Malick Ba - malick.ba@energy-generation.org
 [Node-url]: https://nodejs.org/en/
 [React.js]: https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://reactjs.org/
+=======
+# Gestions-stats-API-ReactApp
+Creation de la partie frontend pour la gestion des statistiques des joueurs de foot de l'équipe nationale du Togo.
+>>>>>>> 76e682364159f9cf14dbc6b239b74faeea660f08
